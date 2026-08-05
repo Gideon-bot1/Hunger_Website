@@ -79,3 +79,6 @@ p {
     font-style: normal;
     text-align: center;
 }
+    span:hover {
+        -webkit-text-stroke: 0.25px #a80b0b;
+    }
